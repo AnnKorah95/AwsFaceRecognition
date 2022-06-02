@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc.AWSFaceRecognition", "Poc.AWSFaceRecognition.csproj", "{0DA0934A-1F96-470C-BEB3-9F5485C580D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E988C47B-493B-4589-BC80-F6DE9AA2162D}"
+	ProjectSection(SolutionItems) = preProject
+		SmartCity.AWSFaceRecognition.sln = SmartCity.AWSFaceRecognition.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA0934A-1F96-470C-BEB3-9F5485C580D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA0934A-1F96-470C-BEB3-9F5485C580D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA0934A-1F96-470C-BEB3-9F5485C580D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA0934A-1F96-470C-BEB3-9F5485C580D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BD9FEE-34D7-4533-946E-AC6AF51A1269}
+	EndGlobalSection
+EndGlobal
